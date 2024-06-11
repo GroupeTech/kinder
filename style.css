@@ -3,4 +3,8 @@
   color: white;
   font-size: larger;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+ul li{
+    list-style-type: none;
+    font-size: 20px;
 }
